@@ -16,7 +16,7 @@ Lab: Lab2
 
 Date of create: 09.02.2024
 
-Date of finished: ??
+Date of finished: 13.02.2024
 
 ## Цель работы: 
 
